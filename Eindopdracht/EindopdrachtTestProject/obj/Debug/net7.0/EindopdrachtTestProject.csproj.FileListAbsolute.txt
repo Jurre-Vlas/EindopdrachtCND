@@ -263,3 +263,6 @@ C:\Users\Jurre Vlas\projecten\EindopdrachtCND\Eindopdracht\EindopdrachtTestProje
 C:\Users\Jurre Vlas\projecten\EindopdrachtCND\Eindopdracht\EindopdrachtTestProject\obj\Debug\net7.0\EindopdrachtTestProject.pdb
 C:\Users\Jurre Vlas\projecten\EindopdrachtCND\Eindopdracht\EindopdrachtTestProject\obj\Debug\net7.0\EindopdrachtTestProject.genruntimeconfig.cache
 C:\Users\Jurre Vlas\projecten\EindopdrachtCND\Eindopdracht\EindopdrachtTestProject\obj\Debug\net7.0\ref\EindopdrachtTestProject.dll
+C:\Users\Jurre Vlas\projecten\EindopdrachtCND\Eindopdracht\EindopdrachtTestProject\bin\Debug\net7.0\Castle.Core.dll
+C:\Users\Jurre Vlas\projecten\EindopdrachtCND\Eindopdracht\EindopdrachtTestProject\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\Jurre Vlas\projecten\EindopdrachtCND\Eindopdracht\EindopdrachtTestProject\bin\Debug\net7.0\Moq.dll
