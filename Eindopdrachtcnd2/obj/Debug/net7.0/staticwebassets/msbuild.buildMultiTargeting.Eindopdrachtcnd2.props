@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Eindopdrachtcnd2.props" />
+</Project>
