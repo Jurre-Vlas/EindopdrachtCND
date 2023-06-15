@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "ah1d4+szjKW+Lm1z6T8I6EvHhzrWzDeiveAAiM+szifU+h5UnnUldNmeXlJbNxC2bMloqqdO7zjKWzc/QjWzlQ==",
+  "dgSpecHash": "rnqgVNmXayTL9zPDgILLMg046d0lP/swaz4IZnK1atvu+USFYrqhNtIaLrQHL3DL2ndFZYebnGVKPRRmz0eFig==",
   "success": true,
   "projectFilePath": "C:\\Users\\Jurre Vlas\\projecten\\EindopdrachtCND\\Eindopdracht\\EindopdrachtTestProject\\EindopdrachtTestProject.csproj",
   "expectedPackageFiles": [
@@ -68,6 +68,7 @@
     "C:\\Users\\Jurre Vlas\\.nuget\\packages\\microsoft.sqlserver.server\\1.0.0\\microsoft.sqlserver.server.1.0.0.nupkg.sha512",
     "C:\\Users\\Jurre Vlas\\.nuget\\packages\\microsoft.testplatform.objectmodel\\17.5.0\\microsoft.testplatform.objectmodel.17.5.0.nupkg.sha512",
     "C:\\Users\\Jurre Vlas\\.nuget\\packages\\microsoft.testplatform.testhost\\17.5.0\\microsoft.testplatform.testhost.17.5.0.nupkg.sha512",
+    "C:\\Users\\Jurre Vlas\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.17.2\\microsoft.visualstudio.azure.containers.tools.targets.1.17.2.nupkg.sha512",
     "C:\\Users\\Jurre Vlas\\.nuget\\packages\\microsoft.win32.primitives\\4.3.0\\microsoft.win32.primitives.4.3.0.nupkg.sha512",
     "C:\\Users\\Jurre Vlas\\.nuget\\packages\\microsoft.win32.registry\\5.0.0\\microsoft.win32.registry.5.0.0.nupkg.sha512",
     "C:\\Users\\Jurre Vlas\\.nuget\\packages\\microsoft.win32.systemevents\\5.0.0\\microsoft.win32.systemevents.5.0.0.nupkg.sha512",
