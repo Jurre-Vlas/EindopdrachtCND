@@ -26,3 +26,16 @@ jobs:
 
       - name: Run tests
         run: dotnet test Eindopdracht/EindopdrachtTestProject/EindopdrachtTestProject.csproj --configuration Release --logger "trx;LogFileName=testresults.trx"
+
+      - name: Check test results
+        run: |
+          if [ -f "Eindopdracht/EindopdrachtTestProject/TestResults/testresults.trx" ]; then
+            if grep -q "<ResultSummary outcome=\"Failed\"" "Eindopdracht/EindopdrachtTestProject/TestResults/testresults.trx"; then
+              echo "Tests failed. Aborting push to main branch."
+              exit 1
+            else
+              echo "All tests passed. Proceeding with push to main branch."
+            fi
+          else
+            echo "No test results found. Proceeding with push to main branch."
+          fi
